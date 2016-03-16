@@ -441,6 +441,7 @@ Sorry, we could not accomodate your booking request. We\'re full or not open at 
 					'60' 	=> __( 'At least 1 hour in advance', 'restaurant-reservations' ),
 					'240' 	=> __( 'At least 4 hours in advance', 'restaurant-reservations' ),
 					'1440' 	=> __( 'At least 1 day in advance', 'restaurant-reservations' ),
+					'10080'	=> __( 'At least 1 week in advance', 'restaurant-reservations' ),
 				)
 			)
 		);
